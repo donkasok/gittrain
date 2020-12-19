@@ -2,10 +2,9 @@ This is using append
 Adding more into reports
 Some reports need to develop
 
-<p class="container nanodev bark">
-
-	
-	Ohh lala is a way of life
-	Thus comes a dear
-
+<p class="container nanodev bark meow bow">
+	<span>
+		Ohh lala is a way of life
+		Thus comes a dear
+	</span>
 </p>
